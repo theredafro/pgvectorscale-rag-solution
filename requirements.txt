@@ -1,7 +1,7 @@
 pandas
-openai
+ollama # Replaces openai
 psycopg
 python-dotenv
 timescale-vector
 instructor
-anthropic
+sentence-transformers # Replaces anthropic
